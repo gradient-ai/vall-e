@@ -4,6 +4,8 @@
 
 # VALL-E
 
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/vall-e?machine=Free-GPU)
+
 An unofficial PyTorch implementation of [VALL-E](https://valle-demo.github.io/), based on the [EnCodec](https://github.com/facebookresearch/encodec) tokenizer.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/enhuiz)
@@ -12,7 +14,7 @@ An unofficial PyTorch implementation of [VALL-E](https://valle-demo.github.io/),
 
 > A toy Google Colab example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wEze0kQ0gt9B3bQmmbtbSXCoCTpq5vg-?usp=sharing).
 > Please note that this example overfits a single utterance under the `data/test` and is not usable.
-> The pretrained model is yet to come. 
+> The pretrained model is yet to come.
 
 ### Requirements
 
